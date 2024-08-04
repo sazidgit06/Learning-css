@@ -1,0 +1,11 @@
+body{
+    margin: 30px;
+    padding: 30px;
+}
+div{
+    border: 2px solid tomato;
+    width: min(60%,600px);
+    overflow: auto;
+    padding: 20px;
+    resize: both;
+}
